@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">My Profile</string>
+    <string name="caption_profile">profile</string>
+    <string name="caption_myname">Joo Stevensoon</string>
+    <string name="caption_job">Software Developer</string>
+    <string name="caption_userinfo">User Info</string>
+    <string name="caption_experience">Experi\nence</string>
+    <string name="caption_review">Review</string>
+
+    <string name="my_desc">As far as my working in my last job is concerned, I have worked for Danone company for 4 years. I have gained a lot of experience from my last job. In my last job, I have produced many software developed by reverse engineering, C, Android and so on. Nowadays, I would like to face a new challenges to improve my abilities and skills.</string>
+    <string name="caption_phonenumber">+33 655571966</string>
+    <string name="caption_gmail">joostevensoon@gmail.com</string>
+    <string name="caption_location">London, United Kingdom</string>
+    <string name="skill_content">Reverse engineering\nAssembly language\nC/C++\nAndroid\nNode.js\nReact</string>
+    <string name="about_me">About Me</string>
+    <string name="contact">Contact</string>
+    <string name="skills">Skills</string>
+
+    <string name="exp_content1">Android Developer</string>
+    <string name="exp_content2">Reverse Engineer</string>
+    <string name="exp_content3">Assemble, C/C++ Developer</string>
+    <string name="exp_duration">Apr 2016 - Apr 2023</string>
+
+    <string name="review_content">There would be so many perfect reviews from good persons like you!!!</string>
+</resources>
